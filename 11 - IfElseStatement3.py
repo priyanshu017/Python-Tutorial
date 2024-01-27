@@ -7,4 +7,5 @@ elif (num == 999): #Again, Python will check, True or False, and based on the co
     print("Number is special")
 else: #Koi condition agar uppar true nahi hai, to bas ise hi true maan lega
     print("Number is Positive")
+
 print("Zindadil print - kyuki, any way chalega, loop ke baahar hai")

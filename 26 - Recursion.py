@@ -1,0 +1,2 @@
+# Function ke andar same function ko call kar dein, to recursion. Process of defining something in terms of itself.
+# Physical world example: Placing an object between two mirrors facing each other. Creating recursive reflections.

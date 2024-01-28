@@ -12,7 +12,7 @@ print(listo)
 print(listo.index(1)) # List mein agar '1' hai, to uska index de dega.
 print(listo.count(7)) # List mein kitni baar '7' hai, uska count bata dega.
 misto = listo # The list stays the same, only the reference is copied.
-misto[0] = 0 # This change wold affect the lists, since the list item is changed anyway. When we set, misto = listo, only the reference of the list is copied.
+misto[0] = 0 # This change would affect the list, since the list item is changed anyway. When we set, misto = listo, only the reference of the list is copied.
 print(listo)
 print(misto)
 misto = listo.copy() # For copying, we should use this, since it creates a new list instance.
